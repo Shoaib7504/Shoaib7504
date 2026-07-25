@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./banner%20(2).svg" width="100%" alt="Shoaib Hossain — Full-Stack MERN Developer"/>
+<img src="./banner%20(2).svg" width="100%" alt="Md Showaib Hossain — Full-Stack MERN Developer"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=MERN+Stack+%2B+Next.js+%2B+TypeScript;Turning+complex+ideas+into+clean+UI%2FUX;Currently+diving+deep+into+System+Design" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=MERN+Stack+%2B+Next.js+%2B+JavaScript;Turning+complex+ideas+into+clean+UI%2FUX;48%2B+repos+and+counting...;Learning+every+day+%E2%80%94+one+commit+at+a+time" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -21,14 +21,15 @@
 ```ts
 const shoaib = {
   role: "Full-Stack Developer & Mathematics Student",
-  stack: ["MERN", "Next.js", "TypeScript"],
+  location: "Rajshahi, Bangladesh",
+  stack: ["MERN", "Next.js", "JavaScript/TypeScript"],
   currentFocus: [
-    "Advanced Next.js patterns",
-    "TypeScript best practices",
-    "System Design",
     "Production-ready full-stack apps",
+    "JavaScript problem-solving",
+    "Clean UI/UX with Tailwind & DaisyUI",
+    "Building real-world projects every day",
   ],
-  funFact: "I enjoy turning complex ideas into clean, intuitive web apps 💡",
+  funFact: "I turn caffeine into code — 48 repos and counting ☕",
 };
 ```
 
@@ -68,10 +69,10 @@ const shoaib = {
 
 | Project | Description | Tech |
 |---|---|---|
-| 🚚 **[Swift Deliver](https://github.com/Shoaib7504)** | Parcel delivery platform with real-time tracking & role-based dashboards | MERN, JWT |
-| 🏥 **[Care.IO](https://github.com/Shoaib7504)** | Babysitting & elderly care booking platform connecting caregivers & families | Next.js, MongoDB |
-| 🩸 **[Blood Donation Network](https://github.com/Shoaib7504)** | Community platform connecting donors with recipients in urgent need | React, Firebase |
-| 🤖 **[AI Inventory Manager](https://github.com/Shoaib7504)** | Smart inventory system with AI-assisted stock predictions | Next.js, TypeScript |
+| 🚚 **[Swift Deliver](https://github.com/Shoaib7504/swift-deliver)** | Full-stack parcel delivery platform with real-time tracking, rider management & Stripe payments | React, Express, MongoDB, JWT |
+| 🏥 **[Care Center](https://github.com/Shoaib7504/care-center)** | Babysitting & elderly care booking platform connecting caregivers with families | Next.js, MongoDB, Tailwind |
+| 🤖 **[AI Inventory Manager](https://github.com/Shoaib7504/ai-manager-inventory)** | Smart inventory management system with AI-assisted stock predictions | Next.js, JavaScript, CSS |
+| ⚡ **[Zevora](https://github.com/Shoaib7504/zevora)** | Modern web application built with TypeScript and React ecosystem | TypeScript, React, Vercel |
 
 </div>
 
@@ -89,11 +90,19 @@ const shoaib = {
 
 </div>
 
+## 📈 &nbsp;Recent Activity
+
 <div align="center">
 
-### 🏆 Trophies
+<!--RECENT_ACTIVITY:start-->
+* &#128230; Pushed 3 commits to **[javascript-problems](https://github.com/Shoaib7504/javascript-problems)**
+* &#128230; Pushed 5 commits to **[Shoaib7504](https://github.com/Shoaib7504/Shoaib7504)** (this repo)
+* &#128230; Active on **Jul 25** — latest contributions to profile & problem-solving repos
+<!--RECENT_ACTIVITY:end-->
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shoaib7504&theme=tokyonight&no-frame=true&row=1&column=7" />
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: July 26, 2026
+<!--RECENT_ACTIVITY:last_update-->
 
 </div>
 
