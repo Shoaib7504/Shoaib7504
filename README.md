@@ -27,7 +27,7 @@
 <br/>
 
 ```ts
-const shoaib = {
+const showaib = {
   role: "Full-Stack Developer & Mathematics Student",
   location: "Rajshahi, Bangladesh",
   stack: ["MERN", "Next.js", "JavaScript/TypeScript"],
@@ -90,10 +90,10 @@ const shoaib = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shoaib7504&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api?username=Shoaib7504&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Shoaib7504&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoaib7504&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shoaib7504&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shoaib7504&theme=tokyo-night&hide_border=true" width="49%"/>
 
 </div>
