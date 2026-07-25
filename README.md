@@ -1,20 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=Shoaib%20Hossain&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20MERN%20%7C%20React%20%26%20Next.js%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="./assets/banner.svg" width="100%" alt="Shoaib Hossain — Full-Stack MERN Developer"/>
 
-<a href="https://www.linkedin.com/in/soyaib-hossain/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://showib-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:shoaibhossain188@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br/><br/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=MERN+Stack+%2B+Next.js+%2B+TypeScript;Turning+complex+ideas+into+clean+UI%2FUX;Currently+diving+deep+into+System+Design" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+modern%2C+scalable+web+applications+%F0%9F%9A%80;MERN+Stack+%2B+Next.js+%2B+TypeScript;Turning+complex+ideas+into+clean+UI%2FUX;Currently+diving+deep+into+System+Design" alt="Typing SVG" />
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/soyaib-hossain/"><img src="https://img.shields.io/badge/LinkedIn-1e3a8a?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://showib-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0b1120?style=for-the-badge&logo=vercel&logoColor=38bdf8"/></a>
+<a href="mailto:shoaibhossain188@gmail.com"><img src="https://img.shields.io/badge/Email-0b1120?style=for-the-badge&logo=gmail&logoColor=38bdf8"/></a>
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%"/>
 
-## 🧭 About Me
+## 🧭 &nbsp;About Me
 
 ```ts
 const shoaib = {
@@ -30,16 +32,16 @@ const shoaib = {
 };
 ```
 
-<br/>
+<img src="./assets/divider.svg" width="100%"/>
 
-## 🛠️ Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/DaisyUI-1AD1A5?style=flat-square&logo=daisyui&logoColor=white"/>
+<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white"/>
 
 <br/><br/>
 
@@ -58,9 +60,9 @@ const shoaib = {
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%"/>
 
-## 🚀 Featured Projects
+## 🚀 &nbsp;Featured Projects
 
 <div align="center">
 
@@ -75,14 +77,14 @@ const shoaib = {
 
 > Replace the `#` links above with your actual repo URLs so each title links straight to the project.
 
-<br/>
+<img src="./assets/divider.svg" width="100%"/>
 
-## 📊 GitHub Analytics
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shoaib7504&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shoaib7504&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Shoaib7504&theme=tokyonight&hide_border=true" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoaib7504&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shoaib7504&theme=tokyo-night&hide_border=true" width="49%"/>
@@ -97,9 +99,9 @@ const shoaib = {
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%"/>
 
-## 📫 Let's Connect
+## 📫 &nbsp;Let's Connect
 
 <div align="center">
 
@@ -113,4 +115,4 @@ const shoaib = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%"/>
