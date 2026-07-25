@@ -18,6 +18,14 @@
 
 ## 🧭 &nbsp;About Me
 
+<div align="center">
+  <img src="https://img.shields.io/badge/👨‍💻_Role-Full--Stack_Developer-38bdf8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/📍_Location-Rajshahi,_Bangladesh-38bdf8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🧰_Stack-MERN_%7C_Next.js_%7C_TypeScript-70a5fd?style=flat-square"/>
+</div>
+
+<br/>
+
 ```ts
 const shoaib = {
   role: "Full-Stack Developer & Mathematics Student",
@@ -83,7 +91,7 @@ const shoaib = {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shoaib7504&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=Shoaib7504&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Shoaib7504&theme=tokyonight&hide_border=true" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoaib7504&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shoaib7504&theme=tokyo-night&hide_border=true" width="49%"/>
