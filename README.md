@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Shoaib Hossain — Full-Stack MERN Developer"/>
+<img src=".banner(2).svg" width="100%" alt="Shoaib Hossain — Full-Stack MERN Developer"/>
 
 <br/><br/>
 
@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## 🧭 &nbsp;About Me
 
@@ -32,7 +32,7 @@ const shoaib = {
 };
 ```
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -60,7 +60,7 @@ const shoaib = {
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## 🚀 &nbsp;Featured Projects
 
@@ -77,7 +77,7 @@ const shoaib = {
 
 > Replace the `#` links above with your actual repo URLs so each title links straight to the project.
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## 📊 &nbsp;GitHub Analytics
 
@@ -99,7 +99,7 @@ const shoaib = {
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## 📫 &nbsp;Let's Connect
 
@@ -115,4 +115,4 @@ const shoaib = {
 
 </div>
 
-<img src="./assets/footer.svg" width="100%"/>
+<img src="./footer.svg" width="100%"/>
