@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".banner(2).svg" width="100%" alt="Shoaib Hossain — Full-Stack MERN Developer"/>
+<img src="./banner%20(2).svg" width="100%" alt="Shoaib Hossain — Full-Stack MERN Developer"/>
 
 <br/><br/>
 
@@ -74,8 +74,6 @@ const shoaib = {
 | 🤖 **[AI Inventory Manager](https://github.com/Shoaib7504)** | Smart inventory system with AI-assisted stock predictions | Next.js, TypeScript |
 
 </div>
-
-> Replace the `#` links above with your actual repo URLs so each title links straight to the project.
 
 <img src="./divider.svg" width="100%"/>
 
