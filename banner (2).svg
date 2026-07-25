@@ -1,0 +1,62 @@
+<svg width="100%" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="55%" stop-color="#14204a"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="85%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+
+    <clipPath id="rounded">
+      <rect x="0" y="0" width="1200" height="260" rx="18" ry="18"/>
+    </clipPath>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="260" fill="url(#bg)"/>
+    <rect width="1200" height="260" fill="url(#grid)"/>
+    <rect width="1200" height="260" fill="url(#glow)"/>
+
+    <!-- decorative hex-ish shapes -->
+    <circle cx="1080" cy="60" r="90" fill="none" stroke="#38bdf8" stroke-opacity="0.15" stroke-width="1.5"/>
+    <circle cx="1080" cy="60" r="130" fill="none" stroke="#818cf8" stroke-opacity="0.1" stroke-width="1.5"/>
+    <path d="M 1000 220 L 1040 195 L 1080 220 L 1080 260 L 1000 260 Z" fill="#38bdf8" fill-opacity="0.06"/>
+
+    <!-- left accent bar -->
+    <rect x="0" y="0" width="6" height="260" fill="url(#accent)"/>
+
+    <!-- code bracket motif -->
+    <text x="70" y="150" font-family="Consolas, 'Courier New', monospace" font-size="46" fill="#38bdf8" fill-opacity="0.55">&lt;/&gt;</text>
+
+    <!-- name -->
+    <text x="150" y="110" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#f8fafc" letter-spacing="1">
+      Showaib Hossain
+    </text>
+
+    <!-- underline accent -->
+    <rect x="152" y="128" width="255" height="4" rx="2" fill="url(#accent)"/>
+
+    <!-- role -->
+    <text x="150" y="168" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93c5fd">
+      Full-Stack MERN Developer · React &amp; Next.js
+    </text>
+
+    <!-- tagline -->
+    <text x="150" y="202" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="300" fill="#cbd5e1" fill-opacity="0.85">
+      Building modern, scalable, and user-friendly web applications 🚀
+    </text>
+  </g>
+</svg>
