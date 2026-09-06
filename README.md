@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,25:050f24,50:0a2540,75:0284c7,100:00ff9d&height=280&section=header&text=Showaib%20Hossain&fontSize=62&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Full-Stack%20MERN%20Developer%20%C2%B7%20React%20%26%20Next.js&descAlignY=58&descSize=16&descFontColor=00f3ff&stroke=00f3ff&strokeWidth=1" width="100%" alt="Showaib Hossain — Full-Stack MERN Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,25:0f172a,50:1e3a8a,75:2563eb,100:38bdf8&height=280&section=header&text=Showaib%20Hossain&fontSize=60&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Full-Stack%20MERN%20Developer%20%7C%20React%20%2B%20Next.js&descAlignY=58&descSize=16&descColor=38bdf8&stroke=38bdf8&strokeWidth=1" width="100%" alt="Showaib Hossain — Full-Stack MERN Developer"/>
 
 <br/><br/>
 
@@ -130,4 +130,4 @@ Last Updated: July 26, 2026
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,25:0284c7,50:0a2540,75:050f24,100:020409&height=140&section=footer&text=Thanks%20for%20visiting%20%E2%80%94%20let%27s%20build%20something%20great%20%E2%9C%A8&fontSize=16&fontColor=00ff9d&fontAlignY=68&reversal=true" width="100%" alt="Footer Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,25:2563eb,50:1e3a8a,75:0f172a,100:0b1120&height=140&section=footer&text=Thanks%20for%20visiting%20%E2%80%94%20let%27s%20build%20something%20great%20%E2%9C%A8&fontSize=16&fontColor=38bdf8&fontAlignY=68&reversal=true" width="100%" alt="Footer Wave"/>
