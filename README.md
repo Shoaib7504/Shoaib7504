@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner%20(2).svg" width="100%" alt="Md Showaib Hossain — Full-Stack MERN Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,25:050f24,50:0a2540,75:0284c7,100:00ff9d&height=280&section=header&text=Md%20Showaib%20Hossain&fontSize=60&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Full-Stack%20MERN%20Developer%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=16&descFontColor=00f3ff&stroke=00f3ff&strokeWidth=1" width="100%" alt="Md Showaib Hossain — Full-Stack MERN Developer"/>
 
 <br/><br/>
 
@@ -130,4 +130,4 @@ Last Updated: July 26, 2026
 
 </div>
 
-<img src="./footer.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,25:0284c7,50:0a2540,75:050f24,100:020409&height=140&section=footer&text=%22Write+code+that+works.+Then+write+code+that+lasts.%22&fontSize=15&fontColor=00ff9d&fontAlignY=68&reversal=true" width="100%" alt="Footer Wave"/>
