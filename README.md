@@ -9,7 +9,7 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/soyaib-hossain/"><img src="https://img.shields.io/badge/LinkedIn-1e3a8a?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://showib-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0b1120?style=for-the-badge&logo=vercel&logoColor=38bdf8"/></a>
+<a href="https://showaib-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0b1120?style=for-the-badge&logo=vercel&logoColor=38bdf8"/></a>
 <a href="mailto:shoaibhossain188@gmail.com"><img src="https://img.shields.io/badge/Email-0b1120?style=for-the-badge&logo=gmail&logoColor=38bdf8"/></a>
 
 </div>
@@ -94,7 +94,7 @@ const showaib = {
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Shoaib7504&theme=tokyonight&hide_border=true" width="49%"/>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shoaib7504&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shoaib7504&theme=tokyo-night&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api/pin/?username=Shoaib7504&repo=swift-deliver&theme=tokyonight&hide_border=true" width="49%"/>
 
 </div>
 
